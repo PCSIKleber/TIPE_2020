@@ -1,0 +1,6 @@
+# Temps de démoulage (2e col) en fonction de l'écart à date de péremption (en jour) (1ere col)
+5 	20
+15	30
+2	15
+11	20
+8	24
