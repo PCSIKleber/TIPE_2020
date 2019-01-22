@@ -9,8 +9,8 @@ Pour voir l'écoulement du petit suisse, on va simuler plusieurs choses:
 
 ## TODO liste
 
-[X] Commencer à écrire le script
-[ ] Mettre en place l'intégrateur
-[ ] Prendre différents jeux de conditions initiales
-[ ] Faire des graphiques à différents temps
+* [X] Commencer à écrire le script
+* [ ] Mettre en place l'intégrateur
+* [ ] Prendre différents jeux de conditions initiales
+* [ ] Faire des graphiques à différents temps
 

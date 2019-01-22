@@ -2,10 +2,10 @@
 
 ## Expériences à faire
 
-[X] Premier démoulage de petit suisse: Fait le 11/02/19
-[ ] Mesure de temps de démoulage
-[X] Démoulage en série: Fait le 14/03/19 et le 21/03/19
-[ ] Trouver d'autres idées...
+* [X] Premier démoulage de petit suisse: Fait le 11/02/19
+* [ ] Mesure de temps de démoulage
+* [X] Démoulage en série: Fait le 14/03/19 et le 21/03/19
+* [ ] Trouver d'autres idées...
 
 ## Premier démoulage de petit suisse
 
