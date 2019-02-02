@@ -18,6 +18,11 @@ structurer votre document facilement
 
 # TIPE: Écoulement d'un petit suisse hors de son pot
 
+## Élèves appartenant au groupe
+
+* JJ Fleck
+* ...
+
 ## Choix du sujet
 
 ### Motivation
