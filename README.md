@@ -49,7 +49,7 @@ Le choix de 5 mots-clés en français et en anglais incite le candidat à iso
 De tout temps (là encore, il est clair qu'il ne faut *pas* commencer ainsi), 
 l'étude des petit suisses a passionné les foules [1]. Néanmoins, ce n'est que 
 récemment que des avancées significatives se sont produites dans ce champ
-de recherche [2]
+de recherche [2]. À noter que de vrais personnes ont aussi travaillé dessus [3]
 ...
 
 
@@ -73,5 +73,13 @@ du petit suisse remonte tout seul.
 
 [2]: JJ Fleck, La formidable remontée du Petit Suisse, juin 2003
 
+[3]: CARDARELLI, Haíssa R., BURITI, Flávia CA, CASTRO, Inar A., et al. Inulin and oligofructose improve sensory quality and increase the probiotic viable count in potentially synbiotic petit-suisse cheese. LWT-Food Science and Technology, 2008, vol. 41, no 6, p. 1037-1046.
 
-
+NB: pour trouver des références bibliographiques, vous pouvez utiliser 
+https://scholar.google.fr/ en cherchant le titre et/ou l'auteur de 
+l'article/livre que vous voulez citer. Il vous propose alors une série de lien 
+avec à chaque fois en-dessous un petit symbôle «guillemet» qui, si vous 
+cliquez dessus, vous donne la bonne manière de donner la référence 
+correspondante (prenez la version "ISO"). Ce sont ces références qu'il faudra 
+utiliser plus haut. Pour un livre, pensez à préciser le chapitre, voire les 
+pages du livre qui vous ont particulièrement aidé.
