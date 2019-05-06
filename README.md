@@ -9,7 +9,7 @@
 
 ### Motivation
 
-Blabla motication
+Blabla motivation
 
 ### Justification de l'ancrage dans le thème
 
